@@ -1,10 +1,10 @@
-## Hey 👋, I'm Rahul Jha!
+## Hey 👋!
 
 I've successfully completed QA Tester courses, equipping me with a solid foundation in testing methodologies and practices. My GitHub page serves as a showcase of my journey into the world of software testing, featuring a collection of test artifacts that highlight my skills 🛠️. 
 <br/>
 <br/>
 
-<img align="right" alt="GIF" src="C:\Users\Alexandra\Desktop\тестер\SashaTsu\giphy (1).gif" width="360px"/>
+<img align="right" alt="GIF" src="https://github.com/SashaTsu/SashaTsu/blob/main/giphy%20(1).gif" width="360px"/>
   
 ### 🧐 More About Me:
 
