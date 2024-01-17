@@ -38,9 +38,10 @@ I've successfully completed QA Tester courses, equipping me with a solid foundat
 <br>
 
 ### 🛠️ My test artifacts
-<a href="https://github.com/rahul-jha98/Artistify.ai" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/sheets-database" target="_blank"> <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/README_icons" target="_blank"> <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="oxytracker" src="./projects/oxytracker.svg" height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="wavelength" src="./projects/wavelength.svg" height="68" align="left"> </a>
+<ul>
+<li><a href="https://github.com/SashaTsu/Web-shop-testing">Web shop testing</a></li>
+<li><a href="https://github.com/SashaTsu/Rest-and-SOAP-API-testing-via-Postman">Rest and SOAP API testing via Postman</a></li> 
+<li><a href="https://github.com/SashaTsu/MySQL">MySQL</a></li>
+<li><a href="https://github.com/SashaTsu/Mobile-testing-android-">Mobile testing (android)</a></li>
+<li><a href="https://github.com/SashaTsu/Charles-Proxy">Charles Proxy</a></li>
+</ul>
