@@ -8,11 +8,10 @@ I've successfully completed QA Tester courses, equipping me with a solid foundat
   
 ### 🧐 More About Me:
 
-- 🔭 &nbsp; I finished software tesing course
-- 🤝 &nbsp; Check out my [resume](https://drive.google.com/file/d/1RtBXLhRqP19bzWrT7-3E66EekKPWNSfp/view?usp=sharing)
-- 🌱 &nbsp; My study cases are available on [Github](https://github.com/SashaTsu/SashaTsu/blob/main/README.md#%EF%B8%8F-my-test-artifacts); 
-- 📫 &nbsp; Feel free to ping me on [Linkedin](https://www.linkedin.com/in/alexandra-tsukanova/)
-- 📝 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
+- 🧠 &nbsp; I finished software tesing course
+- 💾 &nbsp; My study cases are available on [Github](https://github.com/SashaTsu/SashaTsu/blob/main/README.md#%EF%B8%8F-my-test-artifacts); 
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/alexandra-tsukanova/)
+- 📜 &nbsp; Checkout my [resume](https://drive.google.com/file/d/1ZpR5pVBTnl_Qybq7GE3MGy1SB1JehVSE/view?usp=sharing)
 
 <br>
 
