@@ -1,4 +1,4 @@
-## Hey 👋!
+### Hey 👋!
 
 I've successfully completed QA Tester courses, equipping me with a solid foundation in testing methodologies and practices. My GitHub page serves as a showcase of my journey into the world of software testing, featuring a collection of test artifacts that highlight my skills 🛠️. 
 <br/>
@@ -42,7 +42,7 @@ I've successfully completed QA Tester courses, equipping me with a solid foundat
 
 <br>
 
-### 🛠️ My test artifacts
+### 🛠️ My test artifacts:
 <ul>
 <li><a href="https://github.com/SashaTsu/Web-shop-testing">Web shop testing</a></li>
 <li><a href="https://github.com/SashaTsu/Rest-and-SOAP-API-testing-via-Postman">Rest and SOAP API testing via Postman</a></li> 
