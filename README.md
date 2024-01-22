@@ -54,6 +54,6 @@ I've successfully completed QA Tester courses, equipping me with a solid foundat
 </p>
 <h3 align="center"> Take a look at my repositories and let's get in touch! </h3>
 <p align="center">
-<a href= "https://www.linkedin.com/in/alexandra-tsukanova/"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="linkedin"/></a>
+<a href= "https://www.linkedin.com/in/atsukanova/"><img src="https://img.icons8.com/?size=512&id=13930&format=png" width="40" height="40" alt="linkedin"/></a>
 <a href= "mailto:qa.aleksandra.tsukanova@gmail.com"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="gmail"/></a>
 </p>
