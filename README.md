@@ -12,7 +12,7 @@ I've successfully completed QA Tester courses, equipping me with a solid foundat
 
 - 💾 &nbsp; My study cases are available on [Github](https://github.com/SashaTsu#%EF%B8%8F-my-test-artifacts); 
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/alexandra-tsukanova/)
-- 📜 &nbsp; Check out my [resume](https://drive.google.com/file/d/1_r8UTWHUu9lkV-JqkgIIUEvKSlLYrZxN/view?usp=sharing)
+- 📜 &nbsp; Check out my [resume](https://drive.google.com/file/d/1f4-p8tQNl0fzckDeBLxo5ESajO3u4Uf0/view?usp=sharing)
 
 <br>
 
