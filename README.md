@@ -1,6 +1,6 @@
 ### Hey 👋!
 
-I've successfully completed QA Tester courses, equipping me with a solid foundation in testing methodologies and practices. My GitHub page serves as a showcase of my journey into the world of software testing, featuring a collection of test artifacts that highlight my skills 🛠️. 
+I've successfully completed QA Tester courses, equipping me with a solid foundation in testing methodologies and practices. My GitHub page serves as a showcase of my journey into the world of software testing, featuring a collection of test artifacts that highlight my skills 🛠️.
 <br/>
 <br/>
 
