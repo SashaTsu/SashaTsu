@@ -8,7 +8,7 @@ I've successfully completed QA Tester courses, equipping me with a solid foundat
   
 ### 🧐 More About Me:
 
-- 🧠 &nbsp; I've finished [software tesing course](https://drive.google.com/file/d/1A2QyoAXCd7b-f_3TUhnJMLXjPfQXTIi5/view?usp=sharing) and [HTML course](https://drive.google.com/file/d/1SCzPEgib4X8JjjPSdJHObml7brBpzP6N/view?usp=sharing)
+- 🧠 &nbsp; I've finished [software tesing course](https://drive.google.com/file/d/1A2QyoAXCd7b-f_3TUhnJMLXjPfQXTIi5/view?usp=sharing) and [HTML course](https://www.coursera.org/account/accomplishments/verify/ESSE6NRV6FBE)
 
 - 💾 &nbsp; My study cases are available on [Github](https://github.com/SashaTsu#%EF%B8%8F-my-test-artifacts); 
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/atsukanova/)
