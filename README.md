@@ -1,6 +1,6 @@
 ### Hey 👋!
 
-I've successfully completed QA Tester courses, equipping me with a solid foundation in testing methodologies and practices. My GitHub page serves as a showcase of my journey into the world of software testing, featuring a collection of test artifacts that highlight my skills 🛠️.
+My GitHub page serves as a showcase of my journey into the world of software testing, featuring a collection of test artifacts that highlight my skills 🛠️.
 <br/>
 <br/>
 
@@ -12,7 +12,7 @@ I've successfully completed QA Tester courses, equipping me with a solid foundat
 
 - 💾 &nbsp; My study cases are available on [Github](https://github.com/SashaTsu#%EF%B8%8F-my-test-artifacts); 
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/atsukanova/)
-- 📜 &nbsp; Check out my [resume](https://drive.google.com/file/d/1f4-p8tQNl0fzckDeBLxo5ESajO3u4Uf0/view?usp=sharing)
+- 📜 &nbsp; Check out my [resume](https://drive.google.com/file/d/1mwBFEW6lUFJw15SqVIGYhcVo3xWhXJke/view?usp=sharing)
 
 <br>
 
