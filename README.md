@@ -8,7 +8,7 @@ My GitHub page serves as a showcase of my journey into the world of software tes
   
 ### 🧐 More About Me:
 
-- 🧠 &nbsp; I've finished [software tesing course](https://drive.google.com/file/d/1A2QyoAXCd7b-f_3TUhnJMLXjPfQXTIi5/view?usp=sharing) and [HTML course](https://www.coursera.org/account/accomplishments/verify/ESSE6NRV6FBE)
+- 🧠 &nbsp; I've finished [software tesing course](https://www.udemy.com/certificate/UC-32b0ff0f-f4d6-4ec9-9b9a-183da1e6c777/) and [HTML course](https://www.coursera.org/account/accomplishments/verify/ESSE6NRV6FBE)
 
 - 💾 &nbsp; My study cases are available on [Github](https://github.com/SashaTsu#%EF%B8%8F-my-test-artifacts); 
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/atsukanova/)
