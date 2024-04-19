@@ -12,7 +12,7 @@ My GitHub page serves as a showcase of my journey into the world of software tes
 
 - 💾 &nbsp; My study cases are available on [Github](https://github.com/SashaTsu#%EF%B8%8F-my-test-artifacts); 
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/atsukanova/)
-- 📜 &nbsp; Check out my [resume](https://drive.google.com/file/d/1OU28HTPDygXnymvwioEtM_nIuM3DcwI_/view?usp=sharing)
+- 📜 &nbsp; Check out my [resume](https://drive.google.com/file/d/1MJOGE2hAiaoesDJB_h5kTW3jutL4usxg/view?usp=sharing)
 
 <br>
 
